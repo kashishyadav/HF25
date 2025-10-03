@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "MyTab",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs"
+  ],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "action": {
+    "default_popup": "index.html"
+  }
+}
