@@ -1,0 +1,3 @@
+[submodule "gaming/dice-game"]
+	path = gaming/dice-game
+	url = https://github.com/PranathiNagisetti/Roll-Rule
