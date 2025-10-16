@@ -140,19 +140,40 @@ Some new projects you can contribute:
 ## 🗂 Repository Structure
 
 ```
-hacktober-fest-2025/
-├── README.md
-├── web/             # web development projects
-│   ├── project-1/
-│   └── project-2/
-├── web3/            # blockchain, smart contracts, dApps
-├── apps/            # mobile & desktop apps
-├── ml/              # machine learning & AI projects
-├── gaming/          # game dev projects
-├── scripts/         # small utilities, helpers
-├── data-science/    # visualizations, data projects
-├── examples/        # demo code, algorithms
-└── LICENSE
+HF25
+├── bot
+│   └── tracking-bot
+├── CLI
+│   └── minigrep
+├── engtosql
+│   └── engsql.py
+├── gaming
+│   ├── cosmic-defender
+│   ├── dice-game
+│   ├── DungenEscape
+│   ├── Simon-Game
+│   ├── snake
+│   └── tic tac toe
+├── Python
+│   └── o-Do List Manager.py
+├── template
+│   ├── .vscode
+│   ├── 01-foodee
+│   ├── angular-app
+│   ├── react-app
+│   ├── svelte-app
+│   └── vue-app
+├── web
+│   ├── certificate-auth
+│   ├── custome-chrome-tab
+│   └── loan-master
+├── web3
+│   ├── Educational Solar System
+│   ├── IPFS-OCC
+│   └── self-protocol
+├── .gitmodules
+└── README.md
+
 ```
 
 Each domain folder may contain multiple sub-projects with their own **README.md**.
